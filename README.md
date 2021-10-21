@@ -1,5 +1,5 @@
 # Python-POST-data
-Python script to send data using verb POST
+Python script to send data using verb POST, it was developed to using threads.
 
 ## License
 Feel free to improve it!
