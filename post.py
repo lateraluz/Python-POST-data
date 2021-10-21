@@ -3,7 +3,7 @@
 #  -H "Content-Type: application/x-www-form-urlencoded"    
 # -d "referer=//&username=Jorge&email=jgonzalez@mgz.co.cr&password=a123456&confirmpassword=a123456&datacheck=1" 
 
-# Developed by T Ramirez ++
+# Developed by Lateraluz ++
 # 20-10-2021
 
 import random
